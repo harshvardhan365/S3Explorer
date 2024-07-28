@@ -89,8 +89,7 @@ To use S3Explorer, you need an API key from Grayhat Warfare. Follow these steps 
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/084d3ff3-8605-44de-aac1-e1fcf5251f17)
-
+![image](https://github.com/user-attachments/assets/d3850482-f213-4749-8f3a-11239560f180)
 
 
 ## Developed by Harshvardhan for enhancing security in the Cyber Security Environment.
